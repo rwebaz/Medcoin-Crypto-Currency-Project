@@ -1,1 +1,75 @@
-theme: jekyll-theme-cayman
+# Site settings
+#
+# Date of this Update to Config-template file ver 07-29-2017
+#
+# github: [metadata]
+theme: "jekyll-theme-cayman"
+# repository: rwebaz/Medcoin-Crypto-Currency-Project
+title: "Medcoin Crypto Currency Project"
+tagline: "A Git Hub repo showing the progress of the Medcoin™ Crypto Currency Project from inception to date."
+description: "A Git Hub repo showing the progress of the Medcoin™ Crypto Currency Project from inception to date."
+author:
+    name: "Robert Weber, Director"
+    email: "mminail@icloud.com"
+    github_username: "mminail"
+    twitter_username: "mminail"
+twitter:
+    username: "mminail"
+# The 'baseurl' is the subpath of your website, e.g. /blog
+baseurl: "/Medcoin-Crypto-Currency-Project"
+url: "https://rwebaz.github.io"
+exclude: ['README.md']
+markdown: "kramdown"
+highlighter: "rouge"
+kramdown:
+    input: "GFM"
+    hard_wrap: "false"
+    syntax_highlighter: "rouge"
+    math_engine: "mathjax"
+timezone: "America/Phoenix"
+google_analytics: [UA-44765001-24]
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: "true"
+defaults:
+  - scope:
+      path: "assets/ico"
+    values:
+      image: "true"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/MMI-Logo-Badge-Stitch-Circle-Trnsp-Gold-fede93-100-x-100.png
+defaults:
+  - scope:
+      path: "" 
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Robert Weber, Director"
+defaults:
+  - scope:
+      path: "pages"
+      type: "pages"
+    values:
+      layout: "default" 
+      author: "Robert Weber, Director"
+collections:
+  collection_CFFP:
+    output: "true"
+defaults:
+  - scope:
+      path: ""
+      type: "collection_LLP"
+    values:
+      layout: "page"
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock

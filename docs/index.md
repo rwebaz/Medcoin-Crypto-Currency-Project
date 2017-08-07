@@ -3,7 +3,7 @@ title: Home Page
 layout: default
 navigation_weight: 1
 ---
-# Medcoin™ Currency Project Template
+# Medcoin™ Crypto Currency Project Template
 
 A Git Hub repo showing the progress of the Medcoin™ Crypto Currency Project from inception to date.
 
@@ -27,6 +27,20 @@ Delineate the steps ...
 ## Live
 
 Render the code live
+
+## Ping-back
+
+- Live Link
+
+[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:target="_blank"}
+
+- The Code
+
+```liquid
+{% raw %}
+[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:target="_blank"}
+{% endraw %}
+```
 
 ## Raw Code
 
