@@ -1,11 +1,11 @@
 ---
-title: Home Page
+title: Medcoin
 layout: default
-navigation_weight: 1
+navigation_weight: 9
 ---
-# Medcoin Currency Project
+# Medcoin Crypto Currency Project
 
-A Git Hub repo showing the progress of the Medcoin™ Crypto Currency from inception to date
+A Git Hub repo showing the progress of the Medcoin™ Crypto Currency from inception to date.
 
 ## Table O Contents
 
