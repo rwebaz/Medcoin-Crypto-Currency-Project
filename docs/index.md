@@ -5,7 +5,21 @@ navigation_weight: 1
 ---
 # Medcoin™ Crypto Currency Project Template
 
-A Git Hub repo showing the progress of the Medcoin™ Crypto Currency Project from inception to date.
+Medcoin™ is your crypto currency of choice for all transactions involving #Medmj or #Recmj, as well as for other medical purchases.
+
+A wholly owned subsidiary of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, the Logo Badge and accompanying script are USPTO registered trademarks of the #MMINAIL, and as such have been colorized to produce a set of two Logo Badges for the Medcoin™ division, one gold, and one tangerine-copper.
+
+Alternatively, we anticipate the color of silver will be used for all "hard currency" Logo Badge Medcoin™ minted.
+
+While the aforementioned gold and tangerine-copper versions shall remain as digital representations of the "hard currency" that backs each digitally mined Medcoin™.
+
+Production of the "hard currency" silver coins is expected to commence in #2020.
+
+While digital production of our digitally mined gold and tangerine-copper Medcoin™ by the digital mining community is expected to open shortly thereafter.
+
+The Management
+
+**Note**. The above synopsis carries several forward looking statements, and as such should not be construed as an incentive to invest in the company's Class B or Class C shares, when as and if issued.
 
 ## Table O Contents
 
