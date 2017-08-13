@@ -1,5 +1,5 @@
 ---
-title: Medcoin Crypto
+title: Proof O Concept
 layout: default
 navigation_weight: 9
 ---
