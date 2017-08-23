@@ -35,6 +35,16 @@ defaults:
       image: "true"
 defaults:
   - scope:
+      path: "assets/img/svg"
+    values:
+      image: "true"
+defaults:
+  - scope:
+      path: "assets/img/png"
+    values:
+      image: "true"
+defaults:
+  - scope:
       path: "assets/ico"
     values:
       image: "true"

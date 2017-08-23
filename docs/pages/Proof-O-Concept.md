@@ -3,20 +3,24 @@ title: Proof O Concept
 layout: default
 navigation_weight: 9
 ---
-# Medcoin™ Crypto Currency Project
+# Proof O Concept
 
-A Git Hub repo showing the progress of the Medcoin™ Crypto Currency from inception to date.
+The Medcoin™ Crypto Currency Project Proof-O-Concept Page ...
 
 ## Table O Contents
+
+![Medcoin™ Tangerine Copper Logo Badge](../assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:height="120px" width="120px"}
+
+**Note**. The above **Live** rendition of the **Medcoin™ Tangerine Copper Logo Badge** `( .svg )` image file is set to the dimensions of 120.00 px X 120.00 px.
 
 - TOC
 {:toc}
 
 ## Medcoin™ Crypto Currency Project Logo Badge
 
-- Image
+![Medcoin™ Gold Logo Badge](../assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Gold-fede93-543-x-543.svg){:height="120px" width="120px"}
 
-![Medcoin™ Logo Badge](../assets/img/MMI-Logo-Badge-Stitch-Circle-Trnsp-Gold-fede93-100-x-100.png)
+**Note**. The above **Live** rendition of the **Medcoin™ Gold Logo Badge** `( .svg )` image file is set to the dimensions of 120.00 px X 120.00 px.
 
 ## Medcoin™ Verified Facebook Page
 
@@ -24,7 +28,7 @@ A Git Hub repo showing the progress of the Medcoin™ Crypto Currency from incep
 
 ```liquid
 {% raw %}
-[Medcoin™ Verified Facebook Page: FULL UR](https://business.facebook.com/Medcoin-1417048435197218/){:target="_blank"}
+[Medcoin™ Verified Facebook Page: FULL URL](https://business.facebook.com/Medcoin-1417048435197218/){:target="_blank"}
 {% endraw %}
 ```
 
@@ -54,7 +58,7 @@ A Git Hub repo showing the progress of the Medcoin™ Crypto Currency from incep
 
 ### Medcoin™ Verified Facebook Page: Current Screen Snap
 
-![Medcoin™ Verified Facebook Page: Current Screen Snap](../assets/img/Medcoin-FB-Page-080617.png)
+![Medcoin™ Verified Facebook Page: Current Screen Snap](../assets/img/png/Medcoin-FB-Page-080617.png)
 
 ## Timeline
 
@@ -76,17 +80,17 @@ More to come ...
 
 ### via Tess
 
-![Medtronic Corp out of Minnesota "world" trademark](../assets/img/Tess-medtronic-medcoin-worldmark-060117.png)
+![Medtronic Corp out of Minnesota "world" trademark](../assets/img/png/Tess-medtronic-medcoin-worldmark-060117.png)
 
 ### via Az SOS
 
-![Trade name at the Az SOS](../assets/img/Az-SOS-trade-name-medcoin-121113.png)
+![Trade name at the Az SOS](../assets/img/png/Az-SOS-trade-name-medcoin-121113.png)
 
 ### via USPTO
 
 - Image
 
-![MMINAIL™ Logo Badge](../assets/img/uspto-mmi-4695251-logo-trademark-registration-030315-horizontal.png)
+![MMINAIL™ Logo Badge Registration](../assets/img/png/uspto-mmi-4695251-logo-trademark-registration-030315-horizontal.png)
 
 - Live Link
 
@@ -96,7 +100,7 @@ More to come ...
 
 - Image
 
-![Medcoin™ Indie GoGo Capital Campaign](../assets/img/Medcoin-Indie-GoGo-background-fede93-gold-620-x-413-px.png)
+![Medcoin™ Indie GoGo Capital Campaign](../assets/img/png/Medcoin-Indie-GoGo-background-fede93-gold-620-x-413-px.png)
 
 - Live Link
 
@@ -124,15 +128,23 @@ C=> http://www.itworld.com/video/74455/how-blockchain-can-help-drive-cybersecuri
 
 - Live Link
 
-[Medcoin™™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin™-Crypto-Currency-Project/){:target="_blank"}
+[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:target="_blank"}
 
 - The Code
 
 ```liquid
 {% raw %}
-[Medcoin™™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin™-Crypto-Currency-Project/){:target="_blank"}
+[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:target="_blank"}
 {% endraw %}
 ```
+
+## Medcoin™ Crypto Currency Project Proof-O-Concept
+
+More to come ...
+
+## Medcoin™ Crypto Currency Project
+
+More to come ...
 
 ## Raw Code
 
@@ -146,4 +158,20 @@ Place the introducing line of text ie.) the 'tagline' here ...
 
 ***
 
-**Source**: [Project Source Links](https://rwebaz.github.io/Medcoin™-Currency-Project/pages/Source-Links.html){:target="_self"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}
+## Sources and Uses
+
+The source and use of 3rd party materials in the creation of this **Markdown** page is greatly appreciated.
+
+Most authors and publishers will allow for the abbreviated reproduction of their works in part when the case of brief quotations or ideas embodied in critical articles or reviews becomes necessary to further the understanding of the end-user's learning process.
+
+Indeed, ping-backs to the original sources are welcome by the readers, the authors, and the publishers of instructional hard copies.
+
+Therefore, it is the policy of the **[MMINAIL][1]** to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
+
+### Inline References
+
+1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+### External Sources
+
+- [Project Source Links](https://rwebaz.github.io/Medcoin-Currency-Project/pages/Source-Links.html){:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}
