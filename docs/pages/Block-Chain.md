@@ -60,4 +60,6 @@ Therefore, it is the policy of the **[MMINAIL][3]** to always provide a **Ping B
 
 ### External Sources
 
-- [Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.yale.edu){:target="_blank"}.
+- [Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:title="Click to Visit The Medium at Free Code Camp dot com ..."}{:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.freecodecamp.com){:title="Click to Visit Free Code Camp dot com ..."}{:target="_blank"}.
+
+- [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links for the Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
