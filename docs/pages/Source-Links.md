@@ -3,16 +3,13 @@ title: Source Links
 layout: default
 navigation_weight: 9
 ---
-# Source Links: Medcoin™ Crypto Currency Project
+# Source Links
 
 Medcoin™ is your crypto currency of choice for all transactions involving #Medmj or #Recmj, as well as for other medical purchases.
 
-## Table O Contents
+{% include md-toc-medcoin-gold.htm %}
 
-- TOC
-{:toc}
-
-## Medcoin™ Crypto Currency Project Topic
+## The Medcoin™ Crypto Currency Project
 
 Each of the following **Link Title** is followed by a short statement of critique, followed by a **Live Link**.
 
