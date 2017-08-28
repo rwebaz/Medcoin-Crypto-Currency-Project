@@ -5,24 +5,19 @@ navigation_weight: 9
 ---
 # Proof O Concept
 
-The Medcoin™ Crypto Currency Project Proof-O-Concept Page ...
+The Medcoin™ Crypto Currency Project was originated in December of #2013 and integrated into the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, as a wholly owned subsidiary.
 
-## Table O Contents
+{% include md-toc-medcoin-gold.htm %}
 
-![Medcoin™ Tangerine Copper Logo Badge](../assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:height="120px" width="120px"}
+## Company Logo Badge
 
-**Note**. The above **Live** rendition of the **Medcoin™ Tangerine Copper Logo Badge** `( .svg )` image file is set to the dimensions of 120.00 px X 120.00 px.
+The company logo badge is a design registered at the USPTO under Class 35 Marketing for exclusive use within the United States.
 
-- TOC
-{:toc}
-
-## Medcoin™ Crypto Currency Project Logo Badge
-
-![Medcoin™ Gold Logo Badge](../assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Gold-fede93-543-x-543.svg){:height="120px" width="120px"}
-
-**Note**. The above **Live** rendition of the **Medcoin™ Gold Logo Badge** `( .svg )` image file is set to the dimensions of 120.00 px X 120.00 px.
+The design has been colorized to convey a traditional coin of commemorative value.
 
 ## Medcoin™ Verified Facebook Page
+
+The company operates a verified Facebook page under the Medcoin™ name.
 
 - [Medcoin™ Verified Facebook Page: FULL URL](https://business.facebook.com/Medcoin-1417048435197218/){:target="_blank"}
 
@@ -108,7 +103,9 @@ More to come ...
 
 ## Medcoin™ Twitter Account
 
-Tweet #1 [@Medcoin™](https://www.twitter.com/Medcoin™){:target="_blank"}
+The company also operates a Twitter account under the name of Medcoin™ and handle **@medcoin**, as well.
+
+Tweet #1 [@Medcoin™](https://www.twitter.com/Medcoin){:title="Click to Visit the Twitter home page of @medcoin"}{:target="_blank"}
 
 - Medcoin™ Twitter Account Tweet Dtd: Live Link
 
@@ -138,26 +135,6 @@ C=> http://www.itworld.com/video/74455/how-blockchain-can-help-drive-cybersecuri
 {% endraw %}
 ```
 
-## Medcoin™ Crypto Currency Project Proof-O-Concept
-
-More to come ...
-
-## Medcoin™ Crypto Currency Project
-
-More to come ...
-
-## Raw Code
-
-Place the introducing line of text ie.) the 'tagline' here ...
-
-```liquid
-{% raw %}
-`...`
-{% endraw %}
-```
-
-***
-
 ## Sources and Uses
 
 The source and use of 3rd party materials in the creation of this **Markdown** page is greatly appreciated.
@@ -175,3 +152,5 @@ Therefore, it is the policy of the **[MMINAIL][1]** to always provide a **Ping B
 ### External Sources
 
 - [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links for the Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+**Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
