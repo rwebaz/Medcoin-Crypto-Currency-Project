@@ -5,22 +5,9 @@ navigation_weight: 9
 ---
 # Block Chain
 
-A Block Chain (BC) is a Digital Chain-O-Blocks of Records.
+A Block Chain (BC) is a digitally distributed 'Chain-O-Blocks' of records.
 
-## Table O Contents
-
-![Medcoin™ Tangerine Copper Logo Badge](../assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:height="120px" width="120px"}
-
-**Note**. The above **Live** rendition of the **Medcoin™ Tangerine Copper Logo Badge** `( .svg )` image file is set to the dimensions of 120.00 px X 120.00 px.
-
-- TOC
-{:toc}
-
-## Medcoin™ Crypto Currency Project Logo Badge
-
-![Medcoin™ Gold Logo Badge](../assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Gold-fede93-543-x-543.svg){:height="120px" width="120px"}
-
-**Note**. The above **Live** rendition of the **Medcoin™ Gold Logo Badge** `( .svg )` image file is set to the dimensions of 120.00 px X 120.00 px.
+{% include md-toc-medcoin-gold.htm %}
 
 ## Records
 
@@ -32,18 +19,6 @@ Object Oriented Programming (OOP) creates the records.
 
 But, what creates the Block Chain (BC) ?
 
-## Raw Code
-
-Place the introducing line of text ie.) the 'tagline' here ...
-
-```liquid
-{% raw %}
-`...`
-{% endraw %}
-```
-
-***
-
 ## Sources and Uses
 
 The source and use of 3rd party materials in the creation of this **Markdown** page is greatly appreciated.
@@ -52,14 +27,16 @@ Most authors and publishers will allow for the abbreviated reproduction of their
 
 Indeed, ping-backs to the original sources are welcome by the readers, the authors, and the publishers of instructional hard copies.
 
-Therefore, it is the policy of the **[MMINAIL][3]** to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
+Therefore, it is the policy of the **[MMINAIL][1]** to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
 
 ### Inline References
 
-1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
 ### External Sources
 
+- [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links for the Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
 - [Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:title="Click to Visit The Medium at Free Code Camp dot com ..."}{:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.freecodecamp.com){:title="Click to Visit Free Code Camp dot com ..."}{:target="_blank"}.
 
-- [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links for the Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+**Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
