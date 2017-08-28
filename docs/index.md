@@ -7,7 +7,15 @@ navigation_weight: 1
 
 Medcoin™ is your crypto currency of choice for all transactions involving #Medmj or #Recmj, as well as for the purchase of other medical devices and services.
 
-{% include md-toc-medcoin-tangerine-copper.htm %}
+## Table O Contents
+
+![Medcoin™ Tangerine Copper Logo Badge](assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:width="120px"}
+
+- TOC
+{:toc}
+
+**Note**. The above **Live** rendition of the **Medcoin™ Tangerine Copper Logo Badge** is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
+
 
 ## Ownership
 
