@@ -121,3 +121,4 @@ Therefore, it is the policy of the **[MMINAIL][1]** to always provide a **Ping B
 
 - [Beyond the Bitcoin Trap by Kevin Lawton](https://www.amazon.com/){:title="Click to Visit Beyond the Bitcoin Trap by Kevin Lawton at Amazon"}{:target="_blank"). Self-published by Kevin Lawton © 2017 [Trendcaller.com](https://www.trendcaller.com/){:title="Click to Visit Kevin Lawton, Trendcaller"}{:target="_blank"}.
 
+**Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
