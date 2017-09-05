@@ -15,15 +15,15 @@ One of the draws of using a crypto-currency in the United States is perceived an
 
 However, because the wallet address that receives and sends the crypto-coin is a piece of default data when queuing a transaction for consensus verification, at least the address of the wallet may be traced back to an originator.
 
-Enter **The Pseudonym**.
+## Enter The Pseudonym
 
 The "Dread Pirate Roberts" ... Remember him?
 
 Prison time.
 
-Mine? Robert Hempaz, at least at Coinbase and over at the other social media sites.
+Mine? Robert Hempaz, at least over at Coinbase and other social media sites.
 
-Robert Hempaz, PhD Trichometry™ to be exact.
+[Robert Hempaz, PhD Trichometry™][2] to be exact.
 
 Shoot 'em on over boys and girls.
 
@@ -33,7 +33,7 @@ Surely you do NOT want to pay the tax upon cashing out, now do you?
 
 You know who you are.
 
-The lucky remnant of days gone past where $25 bought you a decent pizza ... in exchange for 10,000 bitcoins.
+The lucky remnant of days gone past when $25 USD bought you two (2) decent sized pizzas ... in exchange for 10,000 bitcoins.
 
 Those were the days!
 
@@ -141,7 +141,7 @@ At a market value above intrinsic value ie.) when Medcoin™ trades at a premium
 
 ## Tender USDT
 
-You're sitting on a portfolio of crypto currencies, primarily bitcoin and you think the market is getting a little bit ahead of itself by pricing bitcoin in excess of $4,000 per coin when a mere four (4) years ago according to the public blockchain for bitcoin, an "investor" sunk 10,000 bitcoin into the purchase of one (1) $25 USD pizza.
+You're sitting on a portfolio of crypto currencies, primarily bitcoin and you think the market is getting a little bit ahead of itself by pricing bitcoin in excess of $4,000 per coin when a mere four (4) years ago according to the public blockchain for bitcoin, an "investor" sunk 10,000 bitcoin into the purchase and delivery of two (2) pizzas with a conversion value of $25 USD at the time.
 
 What do you do?
 
@@ -225,18 +225,23 @@ Most authors and publishers will allow for the abbreviated reproduction of their
 
 Indeed, ping-backs to the original sources are welcome by the readers, the authors, and the publishers of instructional hard copies.
 
-Therefore, it is the policy of the **[MMINAIL][1]** to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
+Therefore, it is the policy of the [MMINAIL][1] to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
 
 ### Inline References
 
-1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+1. [Robert Hempaz, PhD Trichometry™](https://medmj.us/RobertHempaz){:title="Click to Visit the Facebook Page of Robert Hempaz, PhD Trichometry™"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+[1]:https://mminail.github.io/
+[2]:https://medmj.us/RobertHempaz
 
 ### External Sources
 
 - [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links for the Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
-- [Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ...}{:target="_blank"}
+- [Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://www.amazon.com){:title="Click to Visit The Beginner's Guide To Block Chain Technology by Jay Isaacs at Amazon"}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ..."}{:target="_blank"}
 
-- [Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ...}{:target="_blank"}
+- [Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://www.amazon.com){:title="Click to Visit How to Understand Crypto Currency by Jorn Van Zwanenburg at Amazon"}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ..."}{:target="_blank"}
 
 **Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
