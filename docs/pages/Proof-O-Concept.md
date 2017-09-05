@@ -19,35 +19,35 @@ The design has been colorized to convey a traditional coin of commemorative valu
 
 The company operates a verified Facebook page under the Medcoin™ name.
 
-- [Medcoin™ Verified Facebook Page: FULL URL](https://business.facebook.com/Medcoin-1417048435197218/){:target="_blank"}
+- [Medcoin™ Verified Facebook Page: FULL URL](https://business.facebook.com/Medcoin-1417048435197218/){:title="Click to Visit the ..."}{:target="_blank"}.
 
 ```liquid
 {% raw %}
-[Medcoin™ Verified Facebook Page: FULL URL](https://business.facebook.com/Medcoin-1417048435197218/){:target="_blank"}
+[Medcoin™ Verified Facebook Page: FULL URL](https://business.facebook.com/Medcoin-1417048435197218/){:title="Click to Visit the ..."}{:target="_blank"}.
 {% endraw %}
 ```
 
-- [Medcoin™ Verified Facebook Page: Tiny URL](https://medmj.us/Medcoin-FB){:target="_blank"}
+- [Medcoin™ Verified Facebook Page: Tiny URL](https://medmj.us/Medcoin-FB){:title="Click to Visit the ..."}{:target="_blank"}.
 
 ```liquid
 {% raw %}
-[Medcoin™ Verified Facebook Page: Tiny URL](https://medmj.us/Medcoin-FB){:target="_blank"}
+[Medcoin™ Verified Facebook Page: Tiny URL](https://medmj.us/Medcoin-FB){:title="Click to Visit the ..."}{:target="_blank"}.
 {% endraw %}
 ```
 
-- [Medcoin™ Verified Facebook Page: Short URL](https://www.fb.me/Medcoin-1417048435197218/){:target="_blank"}
+- [Medcoin™ Verified Facebook Page: Short URL](https://www.fb.me/Medcoin){:title="Click to Visit the ..."}{:target="_blank"}.
 
 ```liquid
 {% raw %}
-[Medcoin™ Verified Facebook Page: Short URL](https://www.fb.me/Medcoin™-1417048435197218/){:target="_blank"}
+[Medcoin™ Verified Facebook Page: Short URL](https://www.fb.me/Medcoin){:title="Click to Visit the ..."}{:target="_blank"}.
 {% endraw %}
 ```
 
-- [Medcoin™ Verified Facebook Page: Message Me](https://m.me/Medcoin™-1417048435197218/){:target="_blank"}
+- [Medcoin™ Verified Facebook Page: Message Me](https://m.me/Medcoin){:title="Click to Visit the ..."}{:target="_blank"}.
 
 ```liquid
 {% raw %}
-[Medcoin™ Verified Facebook Page: Message Me](https://m.me/Medcoin™-1417048435197218/){:target="_blank"}
+[Medcoin™ Verified Facebook Page: Message Me](https://m.me/Medcoin){:title="Click to Visit the ..."}{:target="_blank"}.
 {% endraw %}
 ```
 
@@ -57,7 +57,7 @@ The company operates a verified Facebook page under the Medcoin™ name.
 
 ## Timeline
 
-Original FB Message From ... [PD Medcoin™](https://www.facebook.com/pd.Medcoin){:target="_blank"}
+Original FB Message From ... [PD Medcoin™](https://www.facebook.com/pd.Medcoin){:title="Click to Visit the ..."}{:target="_blank"}.
 
 ## July 5th, #2017
 
@@ -89,7 +89,7 @@ More to come ...
 
 - Live Link
 
-[Medcoin™ Logo Badge Registration Certificate via Pinterest](https://medmj.us/RegistrationCertificate){:target="_blank"}
+[Medcoin™ Logo Badge Registration Certificate via Pinterest](https://medmj.us/RegistrationCertificate){:title="Click to Visit the ..."}{:target="_blank"}.
 
 ### via Indie GoGo
 
@@ -99,7 +99,7 @@ More to come ...
 
 - Live Link
 
-[Medcoin™ Indie GoGo Capital Campaign](https://medmj.us/RegistrationCertificate){:target="_blank"}
+[Medcoin™ Indie GoGo Capital Campaign](https://medmj.us/RegistrationCertificate){:title="Click to Visit the ..."}{:target="_blank"}.
 
 ## Medcoin™ Twitter Account
 
@@ -109,7 +109,7 @@ Tweet #1 [@Medcoin™](https://www.twitter.com/Medcoin){:title="Click to Visit t
 
 - Medcoin™ Twitter Account Tweet Dtd: Live Link
 
-> [@RepDavid](https://www.twitter.com/RepDavid){:target="_blank"}: Will you allow #MedMj transactions to be archived via #BC aka 'Blockchain'?
+> [@RepDavid](https://www.twitter.com/RepDavid){:title="Click to Visit the ..."}{:target="_blank"}: Will you allow #MedMj transactions to be archived via #BC aka 'Blockchain'?
 > [C=> http://www.itworld.com/video/74455/how-blockchain-can-help-drive-cybersecurity](http://www.itworld.com/video/74455/how-blockchain-can-help-drive-cybersecurity){:target="_blank"}
 
 - Medcoin™ Twitter Account Tweet Dtd: The Code
@@ -125,13 +125,13 @@ C=> http://www.itworld.com/video/74455/how-blockchain-can-help-drive-cybersecuri
 
 - Live Link
 
-[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:target="_blank"}
+[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:title="Click to Visit the ..."}{:target="_blank"}.
 
 - The Code
 
 ```liquid
 {% raw %}
-[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:target="_blank"}
+[Medcoin™ Crypto Currency Project: Ping-back Home Page](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/){:title="Click to Visit the ..."}{:target="_blank"}.
 {% endraw %}
 ```
 
@@ -147,10 +147,10 @@ Therefore, it is the policy of the **[MMINAIL][1]** to always provide a **Ping B
 
 ### Inline References
 
-1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
 ### External Sources
 
-- [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links for the Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the current Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links page for the ™Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
 **Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
