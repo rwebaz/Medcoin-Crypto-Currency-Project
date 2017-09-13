@@ -16,7 +16,6 @@ Medcoin™ is your crypto currency of choice for all transactions involving #Med
 
 **Note**. The above **Live** rendition of the **Medcoin™ Tangerine Copper Logo Badge** is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
 
-
 ## Ownership
 
 The Medcoin™ Crypto Currency Project is a wholly owned subsidiary of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation.
@@ -39,22 +38,8 @@ Shortly thereafter, our proprietary embedded "hard currency" silver coins will g
 
 **Note**. The above synopsis carries several forward looking statements, and as such should not be construed as an incentive to invest in the company's Class B or Class C shares, when as and if issued.
 
-## Sources and Uses
-
-The source and use of 3rd party materials in the creation of this **Markdown** page is greatly appreciated.
-
-Most authors and publishers will allow for the abbreviated reproduction of their works in part when the case of brief quotations or ideas embodied in critical articles or reviews becomes necessary to further the understanding of the end-user's learning process, and to help subsequently clarify the original thoughts the author is attempting to convey.
-
-Indeed, ping-backs to original sources are welcome by the readers, the authors, and the publishers of instructional hard copies.
-
-Therefore, it is the policy of the **[MMINAIL][1]** to always provide a **Ping Back** to the original author, or to the publisher of the original publication when citing 3rd party work.
-
-### Inline References
-
-1. [MMINAIL](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+{% include sources-and-uses.md %}
 
 ### External Sources
 
-- [Project Source Links](https://rwebaz.github.io/Medcoin-Crypto-Currency-Project/pages/Source-Links.html){:title="Click to Visit the Source Links for the Medcoin Crypto Currency Project"}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
-
-**Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
+- [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
