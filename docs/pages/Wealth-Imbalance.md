@@ -55,9 +55,11 @@ This is a niche Etherium is attempting to fill that will allow the sale of your 
 
 How far have we come since those early days of nebulous contraction?
 
-How about buying a $25 pizza with a total of 10,000 Bitcoins in May of #2010?
+How about buying a set of pizzas for a total tab of $25 USD in May of #2010 ...
 
-If the owner of that Pizza Parlor simply stashed away the code to his Bitcoin wallet in a locked safe, he could now sell those pizza proceeds for well over $10 million dollars USD seven years later ...!
+Only to pay for those pizzas with a like amount of 10,000 Bitcoins?
+
+If the delivery person or owner of that Pizza Parlor simply stashed away the code to his or her Bitcoin wallet in a locked safe, he could now sell those pizza proceeds for well over $10 million dollars USD seven years later ...!
 
 ## Criptomodedas
 
