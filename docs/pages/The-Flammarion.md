@@ -1,7 +1,7 @@
 ---
 title: The Flammarion
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
 # The Flammarion
 

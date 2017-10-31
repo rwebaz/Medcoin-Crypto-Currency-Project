@@ -1,11 +1,11 @@
 ---
 title: Ethereum Mist
 layout: default
-navigation_weight: 9
+navigation_weight: 4
 ---
 # Ethereum Mist
 
-**Mist** is the official Ethereum crypto currency wallet.
+**Mist** is the official Ethereum crypto currency Operating wallet.
 
 {% include md-toc-medcoin-gold.htm %}
 
