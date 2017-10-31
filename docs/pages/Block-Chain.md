@@ -1,7 +1,7 @@
 ---
 title: Block Chain
 layout: default
-navigation_weight: 9
+navigation_weight: 2
 ---
 # Block Chain
 
