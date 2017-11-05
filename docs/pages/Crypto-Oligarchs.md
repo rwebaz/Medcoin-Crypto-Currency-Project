@@ -102,6 +102,7 @@ Why then can we not advocate for the proposed block chain transaction tax as a r
 And, with a subsequent amendment ... install the block chain transaction tax regime upon the country. 
 
 ## Sources and Uses
+
 {% include sources-and-uses.md %}
 
 ### External Sources
