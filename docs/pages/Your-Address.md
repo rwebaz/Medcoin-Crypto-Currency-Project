@@ -82,3 +82,11 @@ The bitcoin block chain weighs in at around 120 GB as of #2017.
 - The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title="Click to Visit the Source Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} page of the Shell Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
 
 - [Using Bitcoin by Eric Morse](https://www/amazon.com/){:title="Click to Visit the Using Bitcoin landing page at Amazon"}{:target="_blank"). Self-published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+
+- [Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:title="Click to Visit The Medium at Free Code Camp dot com ..."}{:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.freecodecamp.com){:title="Click to Visit Free Code Camp dot com ..."}{:target="_blank"}.
+
+- [Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ...}{:target="_blank"}
+
+- [Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ...}{:target="_blank"}
+
+- [Beyond the Bitcoin Trap by Kevin Lawton](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}.
