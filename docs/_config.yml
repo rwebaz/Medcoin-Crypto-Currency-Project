@@ -1,10 +1,10 @@
 # Site settings
 #
-# Date of this Update to Config-template file ver 08-13-2017 PM
+# Date of this Update to Config-template file ver 12-18-2017
 #
 # github: [metadata]
 theme: "jekyll-theme-cayman"
-# repository: rwebaz/Medcoin-Crypto-Currency-Project
+# repository: https://www.github.com/rwebaz/Medcoin-Crypto-Currency-Project
 title: "Medcoin Crypto Currency Project"
 tagline: "A Git Hub repo showing the progress of the Medcoin™ Crypto Currency Project"
 description: "A Git Hub repo showing the progress of the Medcoin™ Crypto Currency Project from inception to date."
@@ -15,8 +15,9 @@ author:
     email: "mminail@icloud.com"
     github_username: "rwebaz"
     twitter_username: "rwebaz"
-# The 'baseurl' is the subpath of your website, e.g. /blog
+# The 'baseurl' is the subpath of your designated project, e.g. /Liquid-Lessons-Project
 baseurl: "/Medcoin-Crypto-Currency-Project"
+# The 'url' is the parental web address of your designated project, e.g. /https://rwebaz.github.io
 url: "https://rwebaz.github.io"
 exclude: ['README.md']
 markdown: "kramdown"
@@ -35,17 +36,12 @@ defaults:
       image: "true"
 defaults:
   - scope:
-      path: "assets/img/svg"
-    values:
-      image: "true"
-defaults:
-  - scope:
       path: "assets/img/png"
     values:
       image: "true"
 defaults:
   - scope:
-      path: "assets/ico"
+      path: "assets/img/svg"
     values:
       image: "true"
 defaults:
