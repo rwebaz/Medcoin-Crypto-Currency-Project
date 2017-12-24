@@ -101,6 +101,41 @@ Why then can we not advocate for the proposed block chain transaction tax as a r
 
 And, with a subsequent amendment ... install the block chain transaction tax regime upon the country. 
 
+## SEC
+
+Dear Mr. Weber:
+
+Thank you for contacting the U.S. Securities and Exchange Commission (SEC).
+
+Please note that the SEC does not have a registration "kit." Your question regarding registering your offering is best addressed by the SEC's Office of Small Business Policy in the Division of Corporation Finance.  You may contact that office directly at (202) 551-3460 or submit a Request Form for Interpretive and Other Assistance at https://tts.sec.gov/cgi-bin/corp_fin_interpretive.  If you submit the webform, please provide a telephone number so that a staff member may respond to your inquiry by phone.
+
+In the interim, you may wish to review our publication "Small Business and the SEC," available at https://www.sec.gov/info/smallbus/qasbsec.htm.
+
+For general information about virtual currencies, you may wish to review our investor alert entitled "Bitcoin and Other Virtual Currency-Related Investments" (available at http://investor.gov/news-alerts/investor-alerts/investor-alert-bitcoin-other-virtual-currency-related-investments) and our investor alert entitled "Ponzi Schemes Using Virtual Currencies" (available at http://www.sec.gov/investor/alerts/ia_virtualcurrencies.pdf).  For information on Initial Coin Offerings, please see https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_coinofferings.
+
+As a federal agency, we are unable to provide specific legal advice to members of the public.    Questions about how the federal securities laws apply to particular circumstances should be addressed by consulting with a private securities lawyer.  If you need help finding a lawyer, please visit our Lawyer Referrals page at http://www.sec.gov/answers/lawref.htm.
+
+
+Sincerely,
+
+Kathleen Kim
+Special Counsel
+Office of Investor Education and Advocacy
+U.S. Securities and Exchange Commission
+(800) 732-0330
+http://www.sec.gov
+www.investor.gov
+www.twitter.com/SEC_Investor_Ed
+
+File Attachment:
+Correspondent Name: Mr. Robert  Weber
+Create Date: 12/4/2017
+Origin: Web
+File #: HO::~00639685~::HO
+Description:
+Hello: Please send me the kit to register our Medcoin™ symbol MDC Cryptocurrency offering with the SEC. Whether or not the offering can be considered to be a security is not an issue. Complying prior to any public offering of any crypto token or currency is. It is the judgment of our Board of Directors to initiate the necessary paperwork to properly register our ICO offering with the SEC prior to engaging the public. Please forward the kit at your earliest convenience, or provide the link where a proper registration may be engaged. Thank you, Robert.
+ref:_00D30JxQy._500t08D9KQ:ref
+
 ## Sources and Uses
 
 {% include sources-and-uses.md %}
