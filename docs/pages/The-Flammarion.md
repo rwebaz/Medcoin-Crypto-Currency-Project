@@ -1,17 +1,13 @@
 ---
 title: The Flammarion
 layout: default
-navigation_weight: 8
+navigation_weight: 9
 ---
 # The Flammarion
 
 The Flammarion is an ancient portrait of a medieval man poking his head into the ether.
 
 {% include toc-flammarion.md %}
-
-## Deep Origins
-
-"If you don't give me and my crew some food, I will cause the sun to stop shining!"~ Christopher Columbus, circa 1500
 
 {% include flammarion-svg.md %}
 
