@@ -1,21 +1,27 @@
 ---
-title: Consensus Ledger
+title: Federated Consensus
 layout: default
-navigation_weight: 3
+navigation_weight: 5
 ---
-# Consensus Ledger
+# Federated Consensus
 
-The consensus protocol for the Medcoin™ ledger requires a high rate of transaction with many transactional participants.
+The consensus protocol for the Medcoin™ ledger requires the mitigation of many transactional participants with a high rate of transaction throughput performed speedily.
 
 {% include md-toc-medcoin-gold.htm %}
 
-## Federated Consensus
+## The Web of Dependent Trust
 
-Our research suggests a set of one-hundred (100) federated, validator nodes will be required to cryptographically agree upon the near-immediate finality of leader commitment with a board of nine (9) foundational overseers endowed with directional discretion in the event of an unmitigated auto tie or fork in the underlying blockchain at similar heights.
+Legacy dependency was exposed in the *Great Recession of 2008* when counter-party risk escalated post consummation of 3rd party contracts.
 
-### Nakamoto Lottery
+In some cases, the web of interconnection was so nebulous, it took four (4) years to unwind just one thirty-three (33) party derivative at a cost of several billion euro.
 
-*Proof O Elapsed Time*, or **POET** is a lottery style algorithm developed by the IBM Sawtooth Hyperledger team.
+### The Digital Weakness of Common 3rd Party Trust
+
+More to come ...
+
+## Consensus Ledger
+
+Our research suggests a set of one-hundred (100) federated, validator nodes will be required to cryptographically agree from the *side-chain* upon the near-immediate finality of a leader commitment.
 
 ### Premise
 
@@ -27,6 +33,18 @@ In the event of a tie or fork in the underlying blockchain at similar height, th
 
 When all nodes are back to 100% agreement, a subsequent rebuild of the block-in-tie to the selected fork will then re-start the progression of the height of the blockchain.
 
+### Byzantine Fault Tolerance
+
+At a Byzantine fault rate of three (3) per eleven (11) corresponding to a success rate of one-hundred (100) minus 27.28 = 72.72% ...
+
+Slightly less than a 3/4ths majority of responding nodes will be required to validate a transaction for inclusion within a block.
+
+In addition, a board of nine (9) foundational overseers endowed with directional discretion ...
+
+In the event an unmitigated auto tie or fork in the underlying blockchain at similar heights does rarely occur ...
+
+Shall decide by a simple majority of 5:4 or greater which height of the two or more conflicting heights is selected to perpetuate the underlying blockchain.
+
 ## Alt Forms O Consensus
 
 As ASIC cores become more prevelant, secure instructions to the CPU can now invoke pure randomness.
@@ -35,13 +53,15 @@ Hence, the weight of the leader selection process diminishes.
 
 Therefore, competition gunning for the first-to-market Bitcoin protocol will advance at market share expense to Bitcoin.
 
-### Byzantine Fault Tolerance
-
 - Multiple rounds of explicit votes
 
 - Time consuming
 
 - More to come ...
+
+### Nakamoto Lottery
+
+*Proof O Elapsed Time*, or **POET** is a lottery style algorithm developed by the IBM Sawtooth Hyperledger team.
 
 ### Proof O Work
 
@@ -71,7 +91,15 @@ A federated group of one-hundred (100) validators will suffice.
 
 - More to come ...
 
-## Sources and Uses
+## Last Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
 
 {% include sources-and-uses.md %}
 
