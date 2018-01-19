@@ -1,7 +1,7 @@
 ---
 title: Your Address
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
 # Your Address
 

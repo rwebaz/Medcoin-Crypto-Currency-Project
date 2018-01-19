@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-/// @title Shape Calculator = Shape Calc
+/// @title Shape Calculator = Shape Calc = Shapecalc
 
 // Declare the smart contract
 contract shapeCalc {

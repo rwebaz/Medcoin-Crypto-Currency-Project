@@ -1,5 +1,7 @@
 pragma solidity ^0.4.0;
 
+/// @title ETH Counter = Ethcounter
+
 // Establish an instance ( class ) of the "Smart Contract" object
 // Note. Name the class Counter
 

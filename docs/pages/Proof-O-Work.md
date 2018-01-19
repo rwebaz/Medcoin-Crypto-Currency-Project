@@ -1,7 +1,7 @@
 ---
 title: Proof O Work 
 layout: default
-navigation_weight: 9
+navigation_weight: 8
 ---
 # Proof O Work
 
