@@ -1,7 +1,7 @@
 ---
 title: Make Medcoin
 layout: default
-navigation_weight: 5
+navigation_weight: 7
 ---
 # Make Medcoin
 
