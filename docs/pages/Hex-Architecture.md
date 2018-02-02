@@ -7,7 +7,7 @@ navigation_weight: 6
 
 Six points of entry expanding three dimensionally to thirty-six (36) nodes of consensus.
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## Building a Consensus Hexadecimally
 

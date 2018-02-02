@@ -7,7 +7,7 @@ navigation_weight: 8
 
 How shall you be known in cyberspace when it comes time to transact using a crypto-currency?
 
-{% include md-toc-medcoin-tangerine-copper.htm %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## Anonymity
 

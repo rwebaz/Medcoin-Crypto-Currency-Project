@@ -7,7 +7,7 @@ navigation_weight: 3
 
 A Block Chain (BC) is a digitally distributed 'Chain-O-Blocks' of records.
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## Records
 

@@ -7,7 +7,7 @@ navigation_weight: 8
 
 A **Virtual Currency** can be defined as a form of *electronic value*.
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## Uniform Regulation of Virtual Currency Business Act
 

@@ -5,9 +5,9 @@ navigation_weight: 4
 ---
 # Coin MDC
 
-{{ site.tagline }}
+{{ site.description }}
 
-{% include toc-flammarion.md %}
+{% include toc-medcoin-gold.md %}
 
 ## First Subtitle
 
