@@ -7,7 +7,7 @@ navigation_weight: 5
 
 The consensus protocol for the Medcoin™ ledger requires the mitigation of many transactional participants with a high rate of transaction throughput performed speedily.
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## The Web of Dependent Trust
 

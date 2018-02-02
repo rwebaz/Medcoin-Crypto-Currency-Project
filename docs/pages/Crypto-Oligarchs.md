@@ -7,7 +7,7 @@ navigation_weight: 4
 
 "Most fledgling crypto currencies of any worth fall quickly into the financial **Dynasty Trap**." ~ Kevin Lawton
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## Distributed Ledger Technology
 

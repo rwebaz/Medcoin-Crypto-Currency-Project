@@ -7,7 +7,7 @@ navigation_weight: 8
 
 **Fact**. The top twenty (20) wealthiest people in America own more assets than the bottom 50% of the population combined.
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## Wealth and Control
 

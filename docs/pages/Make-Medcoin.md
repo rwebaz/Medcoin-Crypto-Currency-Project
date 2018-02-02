@@ -1,13 +1,13 @@
 ---
-title: Make Medcoin
+title: Make Medcoin™
 layout: default
 navigation_weight: 7
 ---
-# Make Medcoin
+# Make Medcoin™
 
-Place the introducing line of text ie.) the 'tagline' here ...
+{{ site.description }}
 
-{% include toc-flammarion.md %}
+{% include toc-medcoin-gold.md %}
 
 ## Ethereum Platform
 

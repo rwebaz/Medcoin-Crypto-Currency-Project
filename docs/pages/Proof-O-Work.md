@@ -7,7 +7,7 @@ navigation_weight: 8
 
 {{ site.tagline }}
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## Pay The Miners
 

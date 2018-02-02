@@ -5,9 +5,9 @@ navigation_weight: 5
 ---
 # ETH Counter
 
-{{ site.tagline }}
+{{ site.description }}
 
-{% include toc-flammarion.md %}
+{% include toc-medcoin-gold.md %}
 
 ## First Subtitle
 

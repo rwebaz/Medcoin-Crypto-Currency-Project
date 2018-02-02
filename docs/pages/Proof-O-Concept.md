@@ -7,7 +7,7 @@ navigation_weight: 8
 
 The Medcoin™ Crypto Currency Project was originated in December of #2013 and integrated into the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, as a wholly owned subsidiary.
 
-{% include md-toc-medcoin-gold.htm %}
+{% include toc-medcoin-gold.md %}
 
 ## Company Logo Badge
 

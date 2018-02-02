@@ -7,7 +7,7 @@ navigation_weight: 4
 
 A **Turing** complete computer language that creates multiple **Turing** complete virtual machines cannot be looped to infinity.
 
-{% include md-toc-medcoin-tangerine-copper.htm %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## Fuel Limit
 

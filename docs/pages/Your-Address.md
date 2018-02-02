@@ -7,7 +7,7 @@ navigation_weight: 8
 
 Mt Gox, an Internet bitcoin exchange operating out of Tokyo, Japan got clipped for 700,000 BTC from the year #2011 till its demise in Feb #2014.
 
-{% include md-toc-medcoin-tangerine-copper.htm %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## Hack Worth
 
