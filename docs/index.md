@@ -9,7 +9,7 @@ Medcoin™ is your crypto currency of choice for all transactions involving #Med
 
 ## Table O Contents
 
-![Medcoin™ Tangerine Copper Logo Badge](assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:width="120px"}
+![Medcoin™ Tangerine Copper Logo Badge](/assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:width="120px"}
 
 - TOC
 {:toc}
