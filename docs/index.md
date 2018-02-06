@@ -1,26 +1,41 @@
 ---
 title: Home Page
 layout: default
+excerpt: Medcoin™ is your crypto currency of choice for all transactions medicinal and medical ...
 navigation_weight: 1
+categories: medcoin
 ---
 # Medcoin™ Crypto Currency Project Home Page
 
-Medcoin™ is your crypto currency of choice for all transactions involving #Medmj or #Recmj, as well as for the purchase of other medical devices and services.
+{{ page.excerpt }}
 
-## Table O Contents
+{% comment %}Markdown Index Template md Dtd 02-04-18{% endcomment %}
+
+{% include toc-medcoin-tangerine-copper.md %}
+
+## Tangerine Copper
+
+In the near future, health conscience consumers and patients will be able to purchase medical devices and medical services as well as purchase #Medmj or #Recmj using their Medcoin™ crypto currency of choice.
+
+Two coins are expected to hit the market in the year 2019.
+
+One is our Medcoin™ Tangerine Copper coin patterned against our Medical Marijuana Initiative USPTO Trade Mark Logo Badge, as follows:
 
 ![Medcoin™ Tangerine Copper Logo Badge](/assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:width="120px"}
 
-- TOC
-{:toc}
+## Gold Badge
 
-**Note**. The above **Live** rendition of the **Medcoin™ Tangerine Copper Logo Badge** is an `( .svg )` image file set to the dimensions of 120.00 px X 120.00 px.
+The other coin expected to hit the market in the year 2019 is our Medcoin™ Gold coin patterned against our Medical Marijuana Initiative USPTO Trade Mark Logo Badge, as well.
+
+As follows,
+
+![Medcoin™ Gold Logo Badge](/assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Gold-fede93-543-x-543.svg){:width="120px"}
 
 ## Ownership
 
 The Medcoin™ Crypto Currency Project is a wholly owned subsidiary of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation.
 
-The Logo Badge and accompanying script are USPTO registered trademarks of the **MMINAIL[1]**, and as such have been colorized to produce a set of two fraternal twin Logo Badges for the Medcoin™ division, one gold, and one tangerine-copper.
+The Logo Badge and accompanying script are USPTO registered trademarks of the MMINAIL [[1](#MMINAIL){:.red}], and as such have been colorized to produce a set of two fraternal twin Logo Badges for the Medcoin™ division, one gold, and one tangerine-copper.
 
 Alternatively, we anticipate the color of silver will be used for all "hard currency" Medcoin™ minted, as well.
 
@@ -42,7 +57,7 @@ Shortly thereafter, our proprietary embedded "hard currency" silver coins will g
 
 How to communicate in an adversarial environment is the drive of all crypto functions.
 
-Given the Internet of Things, or **IoT** will require rapid receipt and response of secure information packages across short distances of both time and space, this division of the **MMINAIL[1]** shall not be encumbered by a restriction that forces its coin to be used solely in the medical field.
+Given the Internet of Things, or **IoT** will require rapid receipt and response of secure information packages across short distances of both time and space, this division of the MMINAIL [[1](#MMINAIL){:.red}] shall not be encumbered by a restriction that forces its coin to be used solely in the medical field.
 
 Indeed, as a replacement stream of revenue for the soon to be abolished state income tax systems, Medcoin™ is superiorly positioned to accommodate rapid traffic to and from state coffers.
 
@@ -66,12 +81,20 @@ Better than tulip bulbs!
 
 Grandma Mary Margaret called it!
 
-## Final Subtitle
+## Last Subtitle
 
-More to come ...
+Place the introducing line of text ie.) the 'tagline' here ...
+
+### Raw Code Block
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
 
 {% include sources-and-uses.md %}
 
 ### External Sources
 
-- [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+- [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
