@@ -2,14 +2,15 @@
 title: Home Page
 layout: default
 excerpt: Medcoin™ is your crypto currency of choice for all transactions medicinal and medical ...
+version: Home Template md Dtd 11-10-19
 navigation_weight: 1
 categories: medcoin
 ---
-# Medcoin™ Crypto Currency Project Home Page
+## Medcoin™ Crypto Currency Project Home Page
 
 {{ page.excerpt }}
 
-{% comment %}Markdown Index Template md Dtd 02-04-18{% endcomment %}
+{{ site.description }}
 
 {% include toc-medcoin-tangerine-copper.md %}
 
