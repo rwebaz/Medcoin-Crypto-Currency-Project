@@ -1,21 +1,26 @@
 ---
 title: Proof O Concept
 layout: default
+excerpt: The company logo badge is a design registered at the USPTO under Class 35 Marketing for exclusive use within the United States ...
+hint: The Medcoin™ Crypto Currency Project was originated in December of 2013 and integrated into the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, as a wholly owned subsidiary.
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
 navigation_weight: 8
+categories: page
 ---
-# Proof O Concept
-
-The Medcoin™ Crypto Currency Project was originated in December of #2013 and integrated into the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, as a wholly owned subsidiary.
-
-{% include toc-medcoin-gold.md %}
+{% include toc.md %}
 
 ## Company Logo Badge
 
-The company logo badge is a design registered at the USPTO under Class 35 Marketing for exclusive use within the United States.
+> **Hint**. {{ page.hint }}
 
 The design has been colorized to convey a traditional coin of commemorative value.
 
 ## Medcoin™ Verified Facebook Page
+
+More to come ...
+
+{% include toc-medcoin-gold.md %}
 
 The company operates a verified Facebook page under the Medcoin™ name.
 
@@ -135,8 +140,16 @@ C=> http://www.itworld.com/video/74455/how-blockchain-can-help-drive-cybersecuri
 {% endraw %}
 ```
 
-{% include sources-and-uses.md %}
+## Last Subtitle
 
-### External Sources
+More to come ...
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
+
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
+
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Visit the pdf source"}{:target="_blank"}
+
+***
+
+{% include patreon-link.md %}

@@ -1,15 +1,24 @@
 ---
 title: Your Address
 layout: default
+excerpt: How does a nefarious team of hackers trickle crypto coins back into circulation in exchange for USD, or Yuan, or Yen, or Great British Pound, or any other global or regional classic currency?
+hint: Mt Gox, an Internet bitcoin exchange operating out of Tokyo, Japan got clipped for 700,000 BTC from the year 2011 till its demise in Feb 2014.
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
 navigation_weight: 8
+categories: page
 ---
-# Your Address
+{% include toc.md %}
 
-Mt Gox, an Internet bitcoin exchange operating out of Tokyo, Japan got clipped for 700,000 BTC from the year #2011 till its demise in Feb #2014.
+## First Subtitle
 
-{% include toc-medcoin-tangerine-copper.md %}
+> **Hint**. {{ page.hint }}
+
+More to come ...
 
 ## Hack Worth
+
+**Answer**: They either launder the coins in return for the proceeds ( tax free ), or they purchase goods and services with their "anonymous" coins, or the developers at bitcoin "fork" the block chain at the point of attack.
 
 700,000 BTC x $4,000 USD = $2,800,000,000
 
@@ -20,10 +29,6 @@ That's eight (8) zeros behind four (4) times seven (7).
 The total = $2,800 million.
 
 In British terms, that is two-thousand eight-hundred million dollars USD.
-
-How does a nefarious team of hackers "trickle" those coins back into circulation in exchange for USD, or Yuan, or Yen, or Great British Pound, or any other global or regional classic currency?
-
-**Answer**: They either launder the coins in return for the proceeds ( tax free ), or they purchase goods and services with their "anonymous" coins, or the developers at bitcoin "fork" the block chain at the point of attack.
 
 Because the Mt Gox hack was ongoing, where to "fork" the block chain became problematic for the original bitcoin developers.
 
@@ -75,18 +80,20 @@ A **terabyte** consists of a 1,000 gigabyte(s).
 
 The bitcoin block chain weighs in at around 120 GB as of #2017.
 
-{% include sources-and-uses.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
-### External Sources
+## Last Subtitle
 
-- The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title="Click to Visit the Source Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} page of the Shell Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+More to come ...
 
-- [Using Bitcoin by Eric Morse](https://www/amazon.com/){:title="Click to Visit the Using Bitcoin landing page at Amazon"}{:target="_blank"). Self-published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:title="Click to Visit The Medium at Free Code Camp dot com ..."}{:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.freecodecamp.com){:title="Click to Visit Free Code Camp dot com ..."}{:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Eric Morse [[1](#ERICMORSE){:.red}] and The Medium [[2](#THEMEDIUM){:.red}].
 
-- [Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ...}{:target="_blank"}
+1. {:#ERICMORSE}[Using Bitcoin by Eric Morse](https://amzn.to/2rknmb6){:title="Click to Visit the Using Bitcoin landing page at Amazon"}{:target="_blank"}
 
-- [Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ...}{:target="_blank"}
+1. {:#THEMEDIUM}[Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:title="Click to Visit The Medium at Free Code Camp dot com ..."}{:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.freecodecamp.com){:title="Click to Visit Free Code Camp dot com ..."}{:target="_blank"}
 
-- [Beyond the Bitcoin Trap by Kevin Lawton](https://www.amazon.com){:title="Click to Visit the ...}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}.
+***
+
+{% include patreon-link.md %}

@@ -1,17 +1,21 @@
 ---
 title: Crypto Oligarchs
-layout: default
-navigation_weight: 4
+excerpt: Most fledgling crypto currencies of any worth fall quickly into the financial Dynasty Trap ...
+hint: The block chain is a form of Distributed Ledger Technology that facilitates incorruptible transactions between disparate parties irrespective of what product or service the parties have decided to consummate.
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
+navigation_weight: 8
+categories: page
 ---
 # Crypto Oligarchs
 
-"Most fledgling crypto currencies of any worth fall quickly into the financial **Dynasty Trap**." ~ Kevin Lawton
+> **Hint**. {{ page.hint }}
+
+More to come ...
+
+## Medcoin Gold
 
 {% include toc-medcoin-gold.md %}
-
-## Distributed Ledger Technology
-
-The block chain is a form of **Distributed Ledger Technology**, or DLT that facilitates incorruptible transactions between disparate parties irrespective of what product or service the parties have decided to consummate.
 
 ## Payment Processing
 
@@ -136,12 +140,16 @@ Description:
 Hello: Please send me the kit to register our Medcoin™ symbol MDC Cryptocurrency offering with the SEC. Whether or not the offering can be considered to be a security is not an issue. Complying prior to any public offering of any crypto token or currency is. It is the judgment of our Board of Directors to initiate the necessary paperwork to properly register our ICO offering with the SEC prior to engaging the public. Please forward the kit at your earliest convenience, or provide the link where a proper registration may be engaged. Thank you, Robert.
 ref:_00D30JxQy._500t08D9KQ:ref
 
-## Sources and Uses
+## Last Subtitle
 
-{% include sources-and-uses.md %}
+More to come ...
 
-### External Sources
+***
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Kevin Lawton [[1](#KEVINLAWTON){:.red}].
 
-- [Beyond the Bitcoin Trap by Kevin Lawton](https://www.amazon.com/){:title="Click to Visit Beyond the Bitcoin Trap by Kevin Lawton at Amazon"}{:target="_blank"). Self-published by Kevin Lawton © 2017 [Trendcaller.com](https://www.trendcaller.com/){:title="Click to Visit Kevin Lawton, Trendcaller"}{:target="_blank"}.
+1. {:#KEVINLAWTON}[Beyond the Bitcoin Trap by Kevin Lawton](https://amzn.to/2XPiPcU){:title="Click to Visit Beyond the Bitcoin Trap by Kevin Lawton at Amazon"}{:target="_blank"). Self-published by Kevin Lawton © 2017 [Trendcaller.com](https://www.trendcaller.com/){:title="Click to Visit Kevin Lawton, Trendcaller"}{:target="_blank"}.
+
+***
+
+{% include patreon-link.md %}

@@ -1,19 +1,24 @@
 ---
 title: The Pseudonym
 layout: default
+excerpt: How shall you be known in cyberspace when it comes time to transact using a crypto-currency?
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
 navigation_weight: 8
+categories: page
 ---
-# The Pseudonym
-
-How shall you be known in cyberspace when it comes time to transact using a crypto-currency?
-
-{% include toc-medcoin-tangerine-copper.md %}
+{% include toc.md %}
 
 ## Anonymity
+
+> **Hint**. {{ page.hint }}
 
 One of the draws of using a crypto-currency in the United States is perceived anonymity when conducting a transaction.
 
 However, because the wallet address that receives and sends the crypto-coin is a piece of default data when queuing a transaction for consensus verification, at least the address of the wallet may be traced back to an originator.
+
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## Enter The Pseudonym
 
@@ -217,17 +222,18 @@ As in Euphoria!
 
 More to come ...
 
-{% include sources-and-uses.md %}
+## Last Subtitle
 
-1. [Robert Hempaz, PhD Trichometry™](https://medmj.us/RobertHempaz){:title="Click to Visit the Facebook Page of Robert Hempaz, PhD Trichometry™"}{:target="_blank"}. The MMINAIL is an acronym for the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+More to come ...
 
-[1]:https://mminail.github.io/
-[2]:https://medmj.us/RobertHempaz
+***
 
-### External Sources
+**Note**. The above synopsis was derived from an article written by Jay Isaacs [[1](#JAYISAACS){:.red}] and Jorn Van Zwanenburg [[2](#JORNVANZ){:.red}]
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+1. {:#JAYISAACS}[Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://amzn.to/2OgskyI){:title="Click to Visit The Beginner's Guide To Block Chain Technology by Jay Isaacs at Amazon"}{:target="_blank")
 
-- [Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://www.amazon.com){:title="Click to Visit The Beginner's Guide To Block Chain Technology by Jay Isaacs at Amazon"}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ..."}{:target="_blank"}
+1. {:#JORNVANZ}[Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://amzn.to/2KP38gt){:title="Click to Visit How to Understand Crypto Currency by Jorn Van Zwanenburg at Amazon"}{:target="_blank")
 
-- [Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://www.amazon.com){:title="Click to Visit How to Understand Crypto Currency by Jorn Van Zwanenburg at Amazon"}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ..."}{:target="_blank"}
+***
+
+{% include patreon-link.md %}

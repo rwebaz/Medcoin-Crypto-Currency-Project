@@ -1,17 +1,26 @@
 ---
 title: Chain Evolution
 layout: default
-navigation_weight: 4
+excerpt: Any type of computation may be performed within a Turing complete virtual machine ...
+hint: A Turing complete computer language that creates multiple Turing complete virtual machines cannot be looped to infinity.
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
+navigation_weight: 8
+categories: page
 ---
-# Chain Evolution
+{% include toc.md %}
 
-A **Turing** complete computer language that creates multiple **Turing** complete virtual machines cannot be looped to infinity.
+## First Subtitle
+
+> **Hint**. {{ page.hint }}
+
+More to come ...
+
+## Medcoin Tangerine
 
 {% include toc-medcoin-tangerine-copper.md %}
 
 ## Fuel Limit
-
-Any type of computation may be performed within a **Turing** complete virtual machine.
 
 Why not program in a speed limit in the form of fuel that ensures no computation may be able to continue to run that loops continuously and, therefore, brings the evolution of the other nodes in the chain to a halt.
 
@@ -147,10 +156,16 @@ For this "service", the mining node receives the Ether.
 
 From this source of revenue, the mining node covers its costs, and turns a profit on a daily basis, after calculating the depreciation of its machinery and its 24/7 consumption of electricity.
 
-{% include sources-and-uses.md %}
+## Last Subtitle
 
-### External Sources
+More to come ...
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [Blockchain Ultimate Guide by Charles Jensen](https://www.amazon.com/){:title="Click to Visit the Blockchain Ultimate Guide by Charles Jensen at Amazon"}{:target="_blank"). Self-published by © 2017 [Charles Jensen](https://www.amazon.com/){:title="Click to Visit the Blockchain Ultimate Guide by Charles Jensen at Amazon"}{:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Charles Jensen [[1](#CHARLESJENSEN){:.red}].
+
+1. {:#CHARLESJENSEN}[Blockchain Ultimate Guide by Charles Jensen](https://www.amazon.com/){:title="Click to Visit the Blockchain Ultimate Guide by Charles Jensen at Amazon"}{:target="_blank"). Self-published by © 2017 [Charles Jensen](https://www.amazon.com/){:title="Click to Visit the Blockchain Ultimate Guide by Charles Jensen at Amazon"}{:target="_blank"}.
+
+***
+
+{% include patreon-link.md %}

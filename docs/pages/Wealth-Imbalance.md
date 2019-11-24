@@ -1,13 +1,18 @@
 ---
 title: Wealth Imbalance
 layout: default
+excerpt: The top twenty wealthiest people in America own more assets than the bottom 50% of the population combined ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
 navigation_weight: 8
+categories: page
 ---
-# Wealth Imbalance
+{% include toc.md %}
 
-**Fact**. The top twenty (20) wealthiest people in America own more assets than the bottom 50% of the population combined.
+## First Subtitle
 
-{% include toc-medcoin-gold.md %}
+> **Hint**. {{ page.hint }}
 
 ## Wealth and Control
 
@@ -91,12 +96,20 @@ But, the FBI was able to trace the owner of Silk Road, were they not?
 
 **Conclusion**. The Medcoin™ shall follow a hybrid approach to reconciling the block chain after each transaction, or set of transactions.
 
-{% include sources-and-uses.md %}
+More to come ...
 
-### External Sources
+{% include toc-medcoin-gold.md %}
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+## Last Subtitle
 
-- [Beyond the Bitcoin Trap by Kevin Lawton](https://www.amazon.com){:title="Click to Visit Beyond the Bitcoin Trap by Kevin Lawton at Amazon}{:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}.
+More to come ...
 
-- [Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://www.amazon.com){:title="Click to Visit How to Understand Crypto Currency by Jorn Van Zwanenburg"}{:target="_blank"). Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the ..."}{:target="_blank"}.
+***
+
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
+
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Visit the pdf source"}{:target="_blank"}
+
+***
+
+{% include patreon-link.md %}

@@ -1,5 +1,5 @@
 ---
-title: Coin MDC
+title: Medcoin Gist
 layout: default
 excerpt: Place the introducing line of text ie.) the 'tagline' here ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
@@ -15,10 +15,6 @@ categories: page
 > **Hint**. {{ page.hint }}
 
 More to come ...
-
-## Medcoin Gold
-
-{% include toc-medcoin-gold.md %}
 
 ## Last Subtitle
 
