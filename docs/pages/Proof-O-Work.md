@@ -54,10 +54,6 @@ Whenever bitcoin sells at a discount to the cost of hashing a block, what will b
 
 More to come ...
 
-{{ site.tagline }}
-
-{% include toc-medcoin-gold.md %}
-
 ***
 
 **Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].

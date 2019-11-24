@@ -9,7 +9,7 @@ navigation_weight: 9
 categories: page
 ---
 
-{% include toc.md %}
+{% include toc-flammarion.md %}
 
 ## Deep Origins
 

@@ -24,8 +24,6 @@ One of the draws of using a crypto-currency in the United States is perceived an
 
 However, because the wallet address that receives and sends the crypto-coin is a piece of default data when queuing a transaction for consensus verification, at least the address of the wallet may be traced back to an originator.
 
-{% include toc-medcoin-tangerine-copper.md %}
-
 ## Enter The Pseudonym
 
 The "Dread Pirate Roberts" ... Remember him?
@@ -236,9 +234,9 @@ More to come ...
 
 **Note**. The above synopsis was derived from an article written by Jay Isaacs [[1](#JAYISAACS){:.red}] and Jorn Van Zwanenburg [[2](#JORNVANZ){:.red}]
 
-1. {:#JAYISAACS}[Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://amzn.to/2OgskyI){:title="Click to Visit The Beginner's Guide To Block Chain Technology by Jay Isaacs at Amazon"}{:target="_blank")
+1. {:#JAYISAACS}[Block Chain: The Beginner's Guide To Block Chain Technology by Jay Isaacs](https://amzn.to/2OgskyI){:title="Click to Visit The Beginner's Guide To Block Chain Technology by Jay Isaacs at Amazon"}{:target="_blank"}
 
-1. {:#JORNVANZ}[Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://amzn.to/2KP38gt){:title="Click to Visit How to Understand Crypto Currency by Jorn Van Zwanenburg at Amazon"}{:target="_blank")
+1. {:#JORNVANZ}[Bitcoin: How to Understand Crypto Currency by Jorn Van Zwanenburg](https://amzn.to/2KP38gt){:title="Click to Visit How to Understand Crypto Currency by Jorn Van Zwanenburg at Amazon"}{:target="_blank"}
 
 ***
 
