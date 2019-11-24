@@ -3,16 +3,22 @@ title: The Pseudonym
 layout: default
 excerpt: How shall you be known in cyberspace when it comes time to transact using a crypto-currency?
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
-## Anonymity
+## First Subtitle
 
 > **Hint**. {{ page.hint }}
+
+More to come ...
+
+{% include two-coins.md %}
+
+## Anonymity
 
 One of the draws of using a crypto-currency in the United States is perceived anonymity when conducting a transaction.
 

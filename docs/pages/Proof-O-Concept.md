@@ -8,11 +8,17 @@ ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
-## Company Logo Badge
+## First Subtitle
 
 > **Hint**. {{ page.hint }}
+
+More to come ...
+
+{% include two-coins.md %}
+
+## Company Logo Badge
 
 The design has been colorized to convey a traditional coin of commemorative value.
 

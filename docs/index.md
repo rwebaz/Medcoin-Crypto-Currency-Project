@@ -8,7 +8,7 @@ ver_date: 11-20-19
 navigation_weight: 1
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 {% include irac-issue-rule-analysis-conclusion.md %}
 

@@ -3,12 +3,12 @@ title: Hex Architecture
 layout: default
 excerpt: Six points of entry expanding three dimensionally to thirty-six (36) nodes of consensus ...
 hint: The power of square applied to nature's strongest design shape yields 1,296 nodes of consensus in Level Three.
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 
@@ -16,9 +16,11 @@ categories: page
 
 More to come ...
 
+{% include two-coins.md %}
+
 ## The Hex
 
-{% include toc-medcoin-gold.md %}
+More to come ...
 
 ### Building a Consensus Hexadecimally
 

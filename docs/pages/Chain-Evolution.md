@@ -3,12 +3,12 @@ title: Chain Evolution
 layout: default
 excerpt: Any type of computation may be performed within a Turing complete virtual machine ...
 hint: A Turing complete computer language that creates multiple Turing complete virtual machines cannot be looped to infinity.
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 
@@ -16,9 +16,11 @@ categories: page
 
 More to come ...
 
+{% include two-coins.md %}
+
 ## Medcoin Tangerine
 
-{% include toc-medcoin-tangerine-copper.md %}
+More to come ...
 
 ## Fuel Limit
 

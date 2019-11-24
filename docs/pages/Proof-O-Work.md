@@ -3,16 +3,22 @@ title: Proof O Work
 layout: default
 excerpt: Place the introducing line of text ie.) the 'tagline' here ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
-## Pay The Miners
+## First Subtitle
 
 > **Hint**. {{ page.hint }}
+
+More to come ...
+
+{% include two-coins.md %}
+
+## Pay The Miners
 
 November 12, 2012 is a day that will live in infamy.
 

@@ -1,15 +1,14 @@
 ---
 title: Federated Consensus
 layout: default
-layout: default
 excerpt: The consensus protocol for the Medcoin™ ledger requires the mitigation of many transactional participants with a high rate of transaction throughput performed speedily ...
 hint: Legacy dependency was exposed in the Great Recession of 2008 when counter-party risk escalated post consummation of 3rd party contracts.
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 

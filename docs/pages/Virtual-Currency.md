@@ -3,16 +3,20 @@ title: Virtual Currency
 layout: default
 excerpt: A Virtual Currency can be defined as a form of electronic value ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 
 > **Hint**. {{ page.hint }}
+
+More to come ...
+
+{% include two-coins.md %}
 
 ### Uniform Regulation of Virtual Currency Business Act
 

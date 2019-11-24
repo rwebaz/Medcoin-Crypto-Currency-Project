@@ -3,18 +3,20 @@ title: Your Address
 layout: default
 excerpt: How does a nefarious team of hackers trickle crypto coins back into circulation in exchange for USD, or Yuan, or Yen, or Great British Pound, or any other global or regional classic currency?
 hint: Mt Gox, an Internet bitcoin exchange operating out of Tokyo, Japan got clipped for 700,000 BTC from the year 2011 till its demise in Feb 2014.
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 
 > **Hint**. {{ page.hint }}
 
 More to come ...
+
+{% include two-coins.md %}
 
 ## Hack Worth
 
@@ -79,8 +81,6 @@ How much does the bitcoin block chain currently weigh in at?
 A **terabyte** consists of a 1,000 gigabyte(s).
 
 The bitcoin block chain weighs in at around 120 GB as of #2017.
-
-{% include toc-medcoin-tangerine-copper.md %}
 
 ## Last Subtitle
 
