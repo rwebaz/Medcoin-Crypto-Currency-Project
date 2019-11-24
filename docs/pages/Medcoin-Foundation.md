@@ -1,18 +1,20 @@
 ---
 title: Medcoin™ Foundation
 layout: default
-
-
-In the near future, health conscience consumers and patients will be able to purchase medical devices and medical services as well as purchase Medmj or Recmj using their Medcoin™ crypto currency of choice.
-
-
-navigation_weight: 7
+excerpt: In the near future, health conscience consumers and patients will be able to purchase medical devices and medical services as well as purchase Medmj or Recmj using their Medcoin™ crypto currency of choice ...
+hint: The Medcoin™ Foundation has been established by the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, for the purpose of governing the Medcoin™ Crypto Currency Project.
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
+navigation_weight: 8
+categories: page
 ---
-# Medcoin™ Foundation
+{% include toc.md %}
 
-The **Medcoin™ Foundation** has been established by the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, or [MMINAIL](https://mminail.github.io){:title='Click to Visit the Home Page of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'} for the purpose of governing the Medcoin™ Crypto Currency Project.
+## First Subtitle
 
-{% include toc-medcoin-gold.md %}
+> **Hint**. {{ page.hint }}
+
+More to come ...
 
 ## Software license
 
@@ -28,7 +30,7 @@ Upon approval by the Board of Director of the Medical Marijuana Initiative of No
 
 As follows,
 
-**Copyright ©️ 2013 - 2018** The [Medcoin™ Foundation](https://mminail.github.io/Medcoin/Learn-Medcoin-Now.htm){:title='Click To Review the Learn Medcoin™ Now page of the Medcoin™ Crypto Currency Project at the MMINAIL Concept Library'}{:target='_blank'}, and other contributors.
+**Copyright ©️ 2013 - 2020** The [Medcoin™ Foundation](https://mminail.github.io/Medcoin/Learn-Medcoin-Now.htm){:title='Click To Review the Learn Medcoin™ Now page of the Medcoin™ Crypto Currency Project at the MMINAIL Concept Library'}{:target='_blank'}, and other contributors.
 
 This software consists of voluntary contributions made by many individuals.
 
@@ -56,16 +58,16 @@ As the terms of those licenses may differ from the terms of this license as dict
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+{% include toc-medcoin-gold.md %}
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+More to come ...
 
-{% include sources-and-uses.md %}
+***
 
-### External Sources
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title='Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages'}{:target='_blank'} page of the Medcoin Lessons Project. Published by © 2017 - 2018 [Mminail.github.io](https://mminail.github.io/){:title='Click to Visit the Home Page of the Concept Library at the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation'}{:target='_blank'}.
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Visit the pdf source"}{:target="_blank"}
+
+***
+
+{% include patreon-link.md %}
