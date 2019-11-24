@@ -3,18 +3,20 @@ title: Block Chain
 layout: default
 excerpt: A Block Chain is a digitally distributed Chain-O-Blocks of records ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
-repo: Medcoin-Currency-Project
-ver_date: 11-20-19
+repo: Medcoin-Crypto-Currency-Project
+ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 
 > **Hint**. {{ page.hint }}
 
 More to come ...
+
+{% include two-coins.md %}
 
 ## Medcoin Gold
 

@@ -8,13 +8,15 @@ ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 
 > **Hint**. {{ page.hint }}
 
 More to come ...
+
+{% include two-coins.md %}
 
 ## Software license
 
@@ -57,8 +59,6 @@ Therefore, we recommend that you read those licenses, as well.
 As the terms of those licenses may differ from the terms of this license as dictated above.
 
 ## Last Subtitle
-
-{% include toc-medcoin-gold.md %}
 
 More to come ...
 

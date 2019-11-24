@@ -2,29 +2,21 @@
 title: Make Medcoin™
 layout: default
 excerpt: Two coins are expected to hit the market in the year 2025 ...
-hint: One of the coins expected to hit the market via Initial Coin Offering or ICO is our Medcoin™ Tangerine Copper coin patterned against our Medical Marijuana Initiative USPTO Trade Mark Logo Badge.
-repo: Medcoin-Currency-Project
-ver_date: 11-20-19
+hint: 
+repo: Medcoin-Crypto-Currency-Project
+ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
-## Two Coins
+## First Subtitle
 
 > **Hint**. {{ page.hint }}
 
-### Tangerine Copper
+More to come ...
 
-![Medcoin™ Tangerine Copper Logo Badge](/assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Tangerine-Copper-543-x-543.svg){:width="120px"}
-
-### Gold Badge
-
-The other coin expected to hit the market in the year 2019 is our Medcoin™ Gold coin patterned against our Medical Marijuana Initiative USPTO Trade Mark Logo Badge, as well.
-
-As follows,
-
-![Medcoin™ Gold Logo Badge](/assets/img/svg/MMINAIL-Medcoin-Logo-Badge-Stitch-Circle-Trnsp-Gold-fede93-543-x-543.svg){:width="120px"}
+{% include two-coins.md %}
 
 ## Ownership
 

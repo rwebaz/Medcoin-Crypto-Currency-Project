@@ -3,16 +3,20 @@ title: Wealth Imbalance
 layout: default
 excerpt: The top twenty wealthiest people in America own more assets than the bottom 50% of the population combined ...
 hint: Place the intro paragraph ie.) the 'hypothesis' here ...
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto-Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-{% include toc.md %}
+{% include toc-medcoin-tangerine-copper.md %}
 
 ## First Subtitle
 
 > **Hint**. {{ page.hint }}
+
+More to come ...
+
+{% include two-coins.md %}
 
 ## Wealth and Control
 
