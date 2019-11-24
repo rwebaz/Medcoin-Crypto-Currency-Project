@@ -74,8 +74,6 @@ A **Virtual Currency** may lack the status of a legal tender, but nevertheless s
 
 More to come ...
 
-{% include toc-medcoin-gold.md %}
-
 ## Last Subtitle
 
 More to come ...

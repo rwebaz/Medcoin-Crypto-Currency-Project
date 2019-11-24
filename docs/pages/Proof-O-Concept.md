@@ -3,7 +3,7 @@ title: Proof O Concept
 layout: default
 excerpt: The company logo badge is a design registered at the USPTO under Class 35 Marketing for exclusive use within the United States ...
 hint: The Medcoin™ Crypto Currency Project was originated in December of 2013 and integrated into the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation, as a wholly owned subsidiary.
-repo: Medcoin-Currency-Project
+repo: Medcoin-Crypto Currency-Project
 ver_date: 11-24-19
 navigation_weight: 8
 categories: page
@@ -23,10 +23,6 @@ More to come ...
 The design has been colorized to convey a traditional coin of commemorative value.
 
 ## Medcoin™ Verified Facebook Page
-
-More to come ...
-
-{% include toc-medcoin-gold.md %}
 
 The company operates a verified Facebook page under the Medcoin™ name.
 
