@@ -14,9 +14,9 @@ categories: page
 
 > **Hint**. {{ page.hint }}
 
-{{ site.description }}
+More to come ...
 
-{% include toc-medcoin-gold.md %}
+{% include two-coins.md %}
 
 ## Import Code
 

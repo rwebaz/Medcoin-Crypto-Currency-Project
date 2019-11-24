@@ -16,7 +16,7 @@ categories: page
 
 More to come ...
 
-{% include toc-medcoin-gold.md %}
+{% include two-coins.md %}
 
 ## The Web of Dependent Trust
 

@@ -16,9 +16,7 @@ categories: page
 
 More to come ...
 
-## Medcoin Gold
-
-{% include toc-medcoin-gold.md %}
+{% include two-coins.md %}
 
 ## Last Subtitle
 
