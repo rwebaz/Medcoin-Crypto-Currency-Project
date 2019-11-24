@@ -1,17 +1,25 @@
 ---
 title: Federated Consensus
 layout: default
-navigation_weight: 5
+layout: default
+excerpt: The consensus protocol for the Medcoin™ ledger requires the mitigation of many transactional participants with a high rate of transaction throughput performed speedily ...
+hint: Legacy dependency was exposed in the Great Recession of 2008 when counter-party risk escalated post consummation of 3rd party contracts.
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
+navigation_weight: 8
+categories: page
 ---
-# Federated Consensus
+{% include toc.md %}
 
-The consensus protocol for the Medcoin™ ledger requires the mitigation of many transactional participants with a high rate of transaction throughput performed speedily.
+## First Subtitle
+
+> **Hint**. {{ page.hint }}
+
+More to come ...
 
 {% include toc-medcoin-gold.md %}
 
 ## The Web of Dependent Trust
-
-Legacy dependency was exposed in the *Great Recession of 2008* when counter-party risk escalated post consummation of 3rd party contracts.
 
 In some cases, the web of interconnection was so nebulous, it took four (4) years to unwind just one thirty-three (33) party derivative at a cost of several billion euro.
 
@@ -93,18 +101,14 @@ A federated group of one-hundred (100) validators will suffice.
 
 ## Last Subtitle
 
-Place the introducing line of text ie.) the 'tagline' here ...
+More to come ...
 
-```liquid
-{% raw %}
-Enjoy the successful output!
-{% endraw %}
-```
+***
 
-{% include sources-and-uses.md %}
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-### External Sources
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Visit the pdf source"}{:target="_blank"}
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [Beyond the Bitcoin Trap by Kevin Lawton](https://www.amazon.com/){:title="Click to Visit Beyond the Bitcoin Trap by Kevin Lawton at Amazon"}{:target="_blank"). Self-published by Kevin Lawton © 2017 [Trendcaller.com](https://www.trendcaller.com/){:title="Click to Visit Kevin Lawton, Trendcaller"}{:target="_blank"}.
+{% include patreon-link.md %}

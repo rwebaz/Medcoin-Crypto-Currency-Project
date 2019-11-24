@@ -1,19 +1,26 @@
 ---
 title: Hex Architecture
 layout: default
-navigation_weight: 6
+excerpt: Six points of entry expanding three dimensionally to thirty-six (36) nodes of consensus ...
+hint: The power of square applied to nature's strongest design shape yields 1,296 nodes of consensus in Level Three.
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
+navigation_weight: 8
+categories: page
 ---
-# Hex Architecture
+{% include toc.md %}
 
-Six points of entry expanding three dimensionally to thirty-six (36) nodes of consensus.
+## First Subtitle
+
+> **Hint**. {{ page.hint }}
+
+More to come ...
+
+## The Hex
 
 {% include toc-medcoin-gold.md %}
 
-## Building a Consensus Hexadecimally
-
-The power of square applied to nature's strongest design shape yields 1,296 nodes of consensus in Level Three.
-
-## The Hex
+### Building a Consensus Hexadecimally
 
 A cabal of six (6) coming to a consensus radiates thirty-six (36) nodes in Level Two at the power of two.
 
@@ -113,10 +120,16 @@ There is no reason a regular PC with a decent GPU cannot mine Medcoin™, as lon
 
 "You must NEVER break the chain!" ~ Stevie Nix, Lindsay Buckingham, Mick Fleetwood, Christine Perfect, John McVie ... Fleetwood Mac, The Chain, from the Rumors album
 
-{% include sources-and-uses.md %}
+## Last Subtitle
 
-### External Sources
+More to come ...
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [Block Chain For Beginners by Scott Marks](https://www.amazon.com/){:title="Click to Visit the Block Chain For Beginners by Scott Marks at Amazon"}{:target="_blank"). Self-published by © 2017 [Scott Marks](https://www.amazon.com/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Mark Scott [[1](#MARKSCOTT){:.red}].
+
+1. {:#MARKSCOTT}[Block Chain For Beginners by Mark Scott](https://amzn.to/2Db1MbB){:title="Click to Visit the Block Chain For Beginners by Mark Scott at Amazon"}{:target="_blank").
+
+***
+
+{% include patreon-link.md %}

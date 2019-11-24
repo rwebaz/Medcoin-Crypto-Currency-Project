@@ -1,11 +1,22 @@
 ---
 title: Block Chain
 layout: default
-navigation_weight: 3
+excerpt: A Block Chain is a digitally distributed Chain-O-Blocks of records ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Medcoin-Currency-Project
+ver_date: 11-20-19
+navigation_weight: 8
+categories: page
 ---
-# Block Chain
+{% include toc.md %}
 
-A Block Chain (BC) is a digitally distributed 'Chain-O-Blocks' of records.
+## First Subtitle
+
+> **Hint**. {{ page.hint }}
+
+More to come ...
+
+## Medcoin Gold
 
 {% include toc-medcoin-gold.md %}
 
@@ -19,10 +30,16 @@ Object Oriented Programming (OOP) creates the records.
 
 But, what creates the Block Chain (BC) ?
 
-{% include sources-and-uses.md %}
+## Last Subtitle
 
-### External Sources
+More to come ...
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+***
 
-- [Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:title="Click to Visit The Medium at Free Code Camp dot com ..."}{:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.freecodecamp.com){:title="Click to Visit Free Code Camp dot com ..."}{:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Free Code Camp [[1](#FREECODECAMP){:.red}].
+
+1. {:#FREECODECAMP}[Medium: Building A Block Chain In Less Than An Hour](https://medium.freecodecamp.com/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d){:title="Click to Visit The Medium at Free Code Camp dot com ..."}{:target="_blank"}. Published by © 2017 [FreeCodeCamp.com](https://www.freecodecamp.com){:title="Click to Visit Free Code Camp dot com ..."}{:target="_blank"}.
+
+***
+
+{% include patreon-link.md %}

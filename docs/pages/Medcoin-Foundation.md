@@ -1,6 +1,11 @@
 ---
 title: Medcoin™ Foundation
 layout: default
+
+
+In the near future, health conscience consumers and patients will be able to purchase medical devices and medical services as well as purchase Medmj or Recmj using their Medcoin™ crypto currency of choice.
+
+
 navigation_weight: 7
 ---
 # Medcoin™ Foundation

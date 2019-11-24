@@ -1,15 +1,20 @@
 ---
 title: Virtual Currency
 layout: default
+excerpt: A Virtual Currency can be defined as a form of electronic value ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Medcoin-Currency-Project
+ver_date: 11-24-19
 navigation_weight: 8
+categories: page
 ---
-# Virtual Currency
+{% include toc.md %}
 
-A **Virtual Currency** can be defined as a form of *electronic value*.
+## First Subtitle
 
-{% include toc-medcoin-gold.md %}
+> **Hint**. {{ page.hint }}
 
-## Uniform Regulation of Virtual Currency Business Act
+### Uniform Regulation of Virtual Currency Business Act
 
 State laws need to be harmonized to the extent possible in in the absence of an over-arching Federal payments regulatory framework.
 
@@ -63,10 +68,20 @@ The **Public Interest** in a **Virtual Currency** arises from the following set 
 
 A **Virtual Currency** may lack the status of a legal tender, but nevertheless still retains the utility of a legal tender.
 
-{% include sources-and-uses.md %}
+More to come ...
 
-### External Sources
+{% include toc-medcoin-gold.md %}
 
-- The [Project Source Links](https://mminail.github.io/Medcoin/Source-Medcoin-Links.htm){:title="Click to Visit the Source Links page of the Medcoin Lessons Project at GitHub pages"}{:target="_blank"} page of the Medcoin Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+## Last Subtitle
 
-- The [National Conference of Commissioners on Uniform State Laws](http://www.uniformlaws.org/Committee.aspx?title=Regulation%20of%20Virtual%20Currency%20Businesses%20Act){:title="Click to Visit The National Conference of Commissioners on Uniform State Laws"}{:target="_blank"}. Published by © 2017 [Uniformlaws.org](https://www.uniformlaws.org){:title="Click to Visit Uniformlaws dot org ..."}{:target="_blank"}.
+More to come ...
+
+***
+
+**Note**. The above synopsis was derived from an article written by the National Conference of Commissioners on Uniform State Laws [[1](#NATCONFERENCE){:.red}].
+
+1. {:#NATCONFERENCE} The [National Conference of Commissioners on Uniform State Laws](http://www.uniformlaws.org/Committee.aspx?title=Regulation%20of%20Virtual%20Currency%20Businesses%20Act){:title="Click to Visit The National Conference of Commissioners on Uniform State Laws"}{:target="_blank"}. Published by © 2017 [Uniformlaws.org](https://www.uniformlaws.org){:title="Click to Visit Uniformlaws dot org ..."}{:target="_blank"}.
+
+***
+
+{% include patreon-link.md %}
