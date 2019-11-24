@@ -1,5 +1,6 @@
 ---
 title: Crypto Oligarchs
+layout: default
 excerpt: Most fledgling crypto currencies of any worth fall quickly into the financial Dynasty Trap ...
 hint: The block chain is a form of Distributed Ledger Technology that facilitates incorruptible transactions between disparate parties irrespective of what product or service the parties have decided to consummate.
 repo: Medcoin-Crypto-Currency-Project
@@ -7,9 +8,9 @@ ver_date: 11-24-19
 navigation_weight: 8
 categories: page
 ---
-# Crypto Oligarchs
-
 {% include toc-medcoin-tangerine-copper.md %}
+
+## First Subtitle
 
 > **Hint**. {{ page.hint }}
 
@@ -19,7 +20,7 @@ More to come ...
 
 ## Medcoin Gold
 
-{% include toc-medcoin-gold.md %}
+More to come ...
 
 ## Payment Processing
 

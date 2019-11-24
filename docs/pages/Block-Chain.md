@@ -20,7 +20,7 @@ More to come ...
 
 ## Medcoin Gold
 
-{% include toc-medcoin-gold.md %}
+more to come ...
 
 ## Records
 

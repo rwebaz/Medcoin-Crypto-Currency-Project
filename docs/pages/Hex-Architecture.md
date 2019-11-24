@@ -130,7 +130,7 @@ More to come ...
 
 **Note**. The above synopsis was derived from an article written by Mark Scott [[1](#MARKSCOTT){:.red}].
 
-1. {:#MARKSCOTT}[Block Chain For Beginners by Mark Scott](https://amzn.to/2Db1MbB){:title="Click to Visit the Block Chain For Beginners by Mark Scott at Amazon"}{:target="_blank").
+1. {:#MARKSCOTT}[Block Chain For Beginners by Mark Scott](https://amzn.to/2Db1MbB){:title="Click to Visit the Block Chain For Beginners by Mark Scott at Amazon"}{:target="_blank"}.
 
 ***
 
